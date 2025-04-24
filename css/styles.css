@@ -20,7 +20,7 @@
   display: block;
   border-radius: 8px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  cursor: url(/images/cursor.svg), pointer;
+  cursor: url(../images/cursor.svg), pointer;
 }
 
 .gallery-image:hover {
