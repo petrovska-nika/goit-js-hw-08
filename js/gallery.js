@@ -1,7 +1,7 @@
 const images = [
   {
-    preview: "./images/preview/1.png",
-    original: "./images/original/1.png",
+    preview: "/images/preview/1.png",
+    original: "/images/original/1.png",
     description: "Team Brainstorming",
   },
   {
